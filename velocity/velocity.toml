@@ -1,0 +1,19 @@
+[servers]
+purpur = "127.0.0.1:25566"
+try = ["purpur"]
+
+[advanced]
+# Eaglercraft typically uses this to connect
+bungee-plugin-message-channel = true
+
+[query]
+enabled = false
+show-plugins = false
+
+[logging]
+level = "info"
+
+[proxy]
+enabled = true
+listen = "0.0.0.0:25577" # Public Velocity Port
+online-mode = false
