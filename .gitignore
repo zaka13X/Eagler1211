@@ -1,0 +1,9 @@
+*.jar
+*.log
+logs/
+world/
+world_nether/
+world_the_end/
+velocity_plugins/
+purpur_plugins/
+eaglercraft_data/
